@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleCalculator
 {
-    internal class Calculator
+    internal class Calculator //cloned Prof Jenkins calculator for the demo
     {
         private double operand1;
         private double operand2;
